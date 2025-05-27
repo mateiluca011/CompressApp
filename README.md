@@ -59,5 +59,3 @@ gui_main.py
 requirements.txt
 README.md
 ```
-
-*Licență MIT*

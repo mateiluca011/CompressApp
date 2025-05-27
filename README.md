@@ -60,8 +60,4 @@ requirements.txt
 README.md
 ```
 
-
-
----
-
 *Licență MIT*
